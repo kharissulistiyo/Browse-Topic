@@ -2,7 +2,7 @@ Browse-Topic WordPress Plugin
 =============================
 
 Contributor: Kharis Sulistiyono  
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TS4KLHSHU4VGS
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ACYNA5XNUGBUL
 Tags: links, shortcode, tag, page  
 Requires at least: 2.7  
 Tested up to: 3.7.1  
@@ -17,10 +17,14 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Browse Topic WordPress Plugin. It creates list of post tag links and a filter ( ASC/DESC ) control at the top. It makes your blog readers easy to choose what topic they want to read.
 
 
-### Screenshot
+### Screenshots
 ---
 
 <img src="https://raw.github.com/kharissulistiyo/Browse-Topic/master/screenshot-1.png" alt="Browse Topic WordPress Plugin" />
+Inserting [browse-topic] shortcode
+
+<img src="https://raw.github.com/kharissulistiyo/Browse-Topic/master/screenshot-2.png" alt="Browse Topic WordPress Plugin" />
+Browse Topic page
 
 
 
@@ -41,7 +45,13 @@ Version 0.1
 
 - Initial release
 
+### Download
+---
+
+<a href="http://wordpress.org/plugins/browse-topic/" target="_blank">Download Browse Topic WordPress plugin</a> from WordPress.org repository.
+
+
 ### Notes
 ---
 
-This plugin is under <a href="http://wordpress.org/plugins/browse-topic/" target="_blank">pending review</a>. You can <a href="mailto:kharisblank@gmail.com" target="_blank">contact me</a> for more info. 
+You can <a href="mailto:kharisblank@gmail.com" target="_blank">contact me</a> for more info.

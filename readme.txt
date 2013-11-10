@@ -1,7 +1,7 @@
 === Browse Topic  ===
 
 Contributor: Kharis Sulistiyono  
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TS4KLHSHU4VGS
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ACYNA5XNUGBUL
 Tags: links, shortcode, tag, page  
 Requires at least: 2.7  
 Tested up to: 3.7.1  
@@ -10,13 +10,17 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
-Browse Topic WordPress Plugin. It creates list of post tag links and a filter ( ASC/DESC ) control at the top. It makes your blog readers easy to choose what topic they want to read.
+It creates browse topic or tags with ( ASC/DESC ) control filter at the top. It makes your blog readers easy to choose what topic they want to read.
 
 == Description ==
 
-Browse Topic WordPress Plugin. It creates list of post tag links and a filter ( ASC/DESC ) control at the top. It makes your blog readers easy to choose what topic they want to read.
+Browse Topic WordPress Plugin. It creates list of post tag links and a filter ( ASC/DESC ) control at the top. It makes your blog readers easy to choose what topic they want to read. 
 
-After plugin activated, you can create a browse topic page by inserting a shortcode [browse-topic]
+This plugin improves your WordPress blog usability especially if your blog is an online magazine which has a lot of topics or tags. Displaying all topic or tags an a specific page makes you users easy to get to know what topics are covered on your blog. 
+
+After plugin activated, you can create a browse topic page by inserting a shortcode [browse-topic] in a page. It is very easy to build your "Browse Topic" page. This plugin doesn't have any settings.
+
+<a href="http://kharissulistiyo.github.io" target="_blank">Tell me</a> if you have feedback to improve this plugin.
 
 == Installation ==
 
@@ -29,7 +33,8 @@ After plugin activated, you can create a browse topic page by inserting a shortc
 
 == Screenshots ==
 
-1. Browse Topic page
+1. Inserting [browse-topic] shortcode
+2. Browse Topic page
 
 == Changelog ==
 
