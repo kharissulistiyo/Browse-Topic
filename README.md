@@ -40,3 +40,8 @@ Browse Topic WordPress Plugin. It creates list of post tag links and a filter ( 
 Version 0.1
 
 - Initial release
+
+### Notes
+---
+
+This plugin is under <a href="http://wordpress.org/plugins/browse-topic/" target="_blank">pending review</a>. You can <a href="mailto:kharisblank@gmail.com" target="_blank">contact me</a> for more info. 
