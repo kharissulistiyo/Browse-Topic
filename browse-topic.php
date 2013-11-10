@@ -45,7 +45,7 @@ if(!function_exists('browse_topic_content')){
 					<option value="ASC"><?php _e('Topics (A to Z)', 'browse-topic'); ?></option>
 					<option value="DESC"><?php _e('Topics (Z to A)', 'browse-topic'); ?></option>
 				</select>
-				<input value="Sort Topic" type="submit"> 
+				<input value="Sort Topics" type="submit"> 
 			</div>
 		</form>
 		
