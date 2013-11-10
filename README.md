@@ -18,7 +18,7 @@ Browse Topic WordPress Plugin. It creates list of post tag links and a filter ( 
 1. Download the WP Dropdown Hierarchial Category UI Plugin.
 2. In your WordPress Administration, go to Plugins > Add New > Upload, and select the plugin ZIP file.
 3. Activate the plugin.
-4. Create new page, then insert shortcode <code>[browse-topic]</code>  into the text editor.
+4. Create a new page, then insert shortcode <code>[browse-topic]</code>  into the text editor.
 5. Publish your page and Enjoy!
 
 
