@@ -21,10 +21,10 @@ Browse Topic WordPress Plugin. It creates list of post tag links and a filter ( 
 ---
 
 <img src="https://raw.github.com/kharissulistiyo/Browse-Topic/master/screenshot-1.png" alt="Browse Topic WordPress Plugin" />
-Inserting [browse-topic] shortcode
+<p>Inserting [browse-topic] shortcode</p>
 
 <img src="https://raw.github.com/kharissulistiyo/Browse-Topic/master/screenshot-2.png" alt="Browse Topic WordPress Plugin" />
-Browse Topic page
+<p>Browse Topic page</p>
 
 
 
