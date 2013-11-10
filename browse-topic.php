@@ -2,10 +2,10 @@
 /*
 Plugin Name: Browse Topic
 Version: 0.1
-Description: Create list of topics. It makes your blog readers easy to choose what topic they want to read.
+Description: Browse Topic WordPress Plugin. It creates list of post tag links and a filter ( ASC/DESC ) control at the top. It makes your blog readers easy to choose what topic they want to read.
 Author: <a href="http://kharissulistiyo.github.io">Kharis Sulistiyono</a>
 Author URI: http://kharissulistiyo.github.io
-Plugin URI: http://kharissulistiyo.github.io
+Plugin URI: https://github.com/kharissulistiyo/Browse-Topic
 */
 
 
