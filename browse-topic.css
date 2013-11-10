@@ -1,0 +1,24 @@
+/*
+* Browse topic plugin styles for front-end
+* Author: Kharis Sulistiyono
+*/
+.bt-topics ul {
+  list-style: none;
+  margin: 40px 0 0 0 !important;
+  padding: 0 !important;
+}
+.bt-topics ul:before,
+.bt-topics ul:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+.bt-topics ul li {
+  display: inline-block;
+  width: 42%;
+  float: left;
+  margin-left: 0 !important;
+}
+.bt-topics ul li a {
+  text-transform: capitalize;
+}
